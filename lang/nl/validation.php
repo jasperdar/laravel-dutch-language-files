@@ -72,6 +72,7 @@ return [
     'image' => ':Attribute dient een afbeelding te zijn.',
     'in' => 'Geselecteerde :attribute is ongeldig.',
     'in_array' => ':Attribute komt niet voor in :other.',
+    'in_array_keys' => ':Het attribute veld moet ten minste een van de volgende keys bevatten :values.',
     'integer' => ':Attribute dient een geheel getal te zijn.',
     'ip' => ':Attribute dient een geldig IP adres te zijn.',
     'ipv4' => ':Attribute dient een geldig IPv4 adres te zijn.',
