@@ -18,4 +18,5 @@ return [
     'throttled' => 'Wacht a.u.b. voor u het opnieuw te proberen.',
     'token' => 'Deze wachtwoord reset token is ongeldig.',
     'user' => 'We kunnen geen gebruiker met dat e-mailadres vinden.',
+
 ];

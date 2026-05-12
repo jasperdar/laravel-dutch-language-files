@@ -131,14 +131,16 @@ return [
     'present_with_all' => ':Attribute dient aanwezig te zijn als :values aanwezig zijn.',
     'prohibited' => 'Het :attribute veld is niet toegestaan.',
     'prohibited_if' => 'Het :attribute veld is niet toegestaan wanneer :other :value is.',
+    'prohibited_if_accepted' => 'The :attribute veld is niet toegestaan wanneer :other geaccepteerd is.',
+    'prohibited_if_declined' => 'The :attribute veld is niet toegestaan wanneer :other niet geaccepteerd is.',
     'prohibited_unless' => 'Het :attribute veld is niet toegestaan tenzij :other voorkomt in :values.',
     'prohibits' => 'Het :attribute veld staat niet toe dat :other aanwezig is.',
     'regex' => 'Het :attribute formaat is ongeldig.',
     'required' => 'Het :attribute veld is verplicht.',
     'required_array_keys' => 'Het veld :attribute moet vermeldingen bevatten voor: :values.',
     'required_if' => 'Het :attribute veld is verplicht wanneer :other is :value.',
-    'required_if_accepted' => 'Het veld :attribute is vereist wanneer :other is geaccepteerd.',
-    'required_if_declined' => 'Het veld :attribute is vereist wanneer :other niet is geaccepteerd.',
+    'required_if_accepted' => 'Het :attribute veld is vereist wanneer :other geaccepteerd is.',
+    'required_if_declined' => 'Het :attribute veld is vereist wanneer :other niet is geaccepteerd.',
     'required_unless' => 'Het :attribute veld is verplicht, tenzij :other is in :values.',
     'required_with' => 'Het :attribute veld is verplicht wanneer :values aanwezig is.',
     'required_with_all' => 'Het :attribute veld is verplicht wanneer :values aanwezig is.',
@@ -190,4 +192,5 @@ return [
     */
 
     'attributes' => [],
+
 ];
